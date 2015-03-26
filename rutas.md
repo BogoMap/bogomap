@@ -8,15 +8,22 @@ Para la primera fase, solo en la zona central.
 | 59b    | Completa |
 | 83     | Completa |
 | 107b   | Completa |
+| 192    | Completa |
 | 265    | Completa |
+| 367    | Completa |
 | 385    | Completa |
+| 421    | Completa |
+| 466    | Completa |
 | 494a   | Completa |
+| 544b   | Completa |
 | 688    | Completa |
 | c33    | Completa |
 | c41    | Completa |
 | e61    | Completa |
-| h80    | Completa |
 | p500   | Completa |
+| m80h80 | Completa |
+| m81h81 | Completa |
+| m86k86 | Completa |
 
 ## Solo número ##
 
