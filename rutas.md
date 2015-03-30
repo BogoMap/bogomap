@@ -8,6 +8,7 @@ Para la primera fase, solo en la zona central.
 | 59b    | Completa |
 | 83     | Completa |
 | 107b   | Completa |
+| 142    | Completa |
 | 192    | Completa |
 | 257    | Completa |
 | 265    | Completa |
