@@ -9,6 +9,7 @@ Para la primera fase, solo en la zona central.
 | 83     | Completa |
 | 107b   | Completa |
 | 192    | Completa |
+| 257    | Completa |
 | 265    | Completa |
 | 367    | Completa |
 | 385    | Completa |
