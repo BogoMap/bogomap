@@ -22,6 +22,7 @@ Para la primera fase, solo en la zona central.
 | 603b   | Completa |
 | 688    | Completa |
 | c33    | Completa |
+| c41    | Completa |
 | e61    | Completa |
 | p500   | Completa |
 | m80h80 | Completa |
