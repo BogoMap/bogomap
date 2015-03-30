@@ -18,6 +18,7 @@ Para la primera fase, solo en la zona central.
 | 494a   | Completa |
 | 544a   | Completa |
 | 544b   | Completa |
+| 603b   | Completa |
 | 688    | Completa |
 | c33    | Completa |
 | e61    | Completa |
