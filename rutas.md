@@ -5,6 +5,7 @@ Para la primera fase, solo en la zona central.
 | Ruta   | Estado   |
 | ------ |----------|
 | 4      | Completa |
+| 14     | Completa |
 | 59b    | Completa |
 | 83     | Completa |
 | 107b   | Completa |
@@ -20,6 +21,7 @@ Para la primera fase, solo en la zona central.
 | 544b   | Completa |
 | 603b   | Completa |
 | 688    | Completa |
+| c4     | Completa |
 | c33    | Completa |
 | c41    | Completa |
 | e61    | Completa |
