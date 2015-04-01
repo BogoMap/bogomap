@@ -6,6 +6,7 @@ Para la primera fase, solo en la zona central.
 | ------ |----------|
 | 4      | Completa |
 | 14     | Completa |
+| 56b    | Completa |
 | 59b    | Completa |
 | 83     | Completa |
 | 107b   | Completa |
