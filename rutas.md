@@ -28,6 +28,7 @@ Para la primera fase, solo en la zona central.
 | e25    | Completa |
 | e61    | Completa |
 | p500   | Completa |
+| se10   | Completa |
 | m80h80 | Completa |
 | m81h81 | Completa |
 | m86k86 | Completa |
