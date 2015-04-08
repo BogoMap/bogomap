@@ -5,7 +5,7 @@ Para la primera fase, solo en la zona central.
 | Ruta   | Estado   | Trayecto |
 | ------ |----------|----------|
 | 4      | Completa | **San Luis** - Calera - Circunvalar - cr 7 - cl 73 - cr 11 - cl 69 - cl 68 - ... - **San Fernando** - cl 68 - cr 29B - cl 66 - cr 17 - cl 72 - cr 7 - Circunvalar - Calera - **San Luis** |
-| 14     | Completa | **Betania** - ... - Cl 63 - **Lourdes** - cr 13 - cl 60 - cr 17 - cl 63 - ... - **Betania** |
+| 14     | Completa | **Betania** - ... - Cl 63 - cr 13 - **Lourdes** - cl 60 - cr 17 - cl 63 - ... - **Betania** |
 | 56b    | Completa | **Boitá** - ... - Cl 63 - cr 13 - **Chapinero** - cl 57 - cr 24 - cl 63 - ... - **Boitá** |
 | 59b    | Completa | ? - ... - Cl 63 - cr 13 - cl 39 - cr 7 - cl 60 - cr 17 - cl 63 - ... - ? |
 | 83     | Completa | **Engativa** - cl 64C - cr 69H - cr 69I - cl 68 - cr 29B - cl 66 - cr 13 - cl 32 - cr 22 - cl 19 - **Paloquemao** - cr 27 - cl 22 - cr 20 - cl 32 - cr 17 -   cr 69M - cl 64C - **Engativa** |
@@ -14,10 +14,10 @@ Para la primera fase, solo en la zona central.
 | 108    | Completa | ? - ... - cl 127 - cr 15 - cl 100 - cr 11 - cl 64 - cr 13 - cl 32 - cr 16 - cr 34 - ... - **Ciudad Kennedy** - ... - cr 34 - cr 17 - tr 17 - cr 19 - cr 17 - cl 74 - cr 15 - cl 127 - ... - ?|
 | 142    | Completa | Florida - ... - cl 63 - cr 13 - cl 19 - cr 22 - cl 22 - cr 20 - cl 32 - **Centro** - cr 17 - tr 17 - cr 19 - cr 17 - cl 63 - ... - **Florida** |
 | 183    | Completa | ? - ... cl 68 - cl 100 - cr 15 - ... - **Unicentro** - ... - ? |
-| 191    | Completa |  |
-| 200    | Completa |  |
-| 257    | Completa |  |
-| 265    | Completa |  |
+| 191    | Completa | ? - ... - Americas - NQS - ... - **Unicentro** - ... - NQS - Americas - ... - ?|
+| 200    | Completa | ? - ... cl 68 - cl 100 - cr 15 - ... - **Unicentro** - ... - ? |
+| 257    | Completa | Puente Grande - ... - cl 19 - **Germania** - cl 19 - ... - Puente Grande |
+| 265    | Completa | ? - ... - cl 63 - cr 8 - cl 67 - cr 9 - cl 76 - cr 15 - cl 94 - cr 11 - cl 64 - cr 15 - cl 63 - ... - ? |
 | 314    | Completa |  |
 | 359    | Completa |  |
 | 367    | Completa |  |
