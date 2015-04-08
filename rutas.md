@@ -8,7 +8,7 @@ Para la primera fase, solo en la zona central.
 | 14     | Completa | ... - Cl 63 - cr 13 - cl 60 - cr 17 - cl 63 - ... |
 | 56b    | Completa | ... - Cl 63 - cr 13 - cl 57 - cr 24 - cl 63 - ... |
 | 59b    | Completa | ... - Cl 63 - cr 13 - cl 39 - cr 7 - cl 60 - cr 17 - cl 63 - ... |
-| 83     | Completa | Engativa - cl 64C - cr 69H    cr 69M - cl 64C - Engativa |
+| 83     | Completa | Engativa - cl 64C - cr 69H - cr 69I - cl 68 - cr 29B - cl 66 - cr 13 - cl 32 - cr 22 - cl 19 - Paloquemao - cr 27 - cl 22 - cr 20 - cl 32 - cr 17 -   cr 69M - cl 64C - Engativa |
 | 91     | Completa |  |
 | 107b   | Completa |  |
 | 108    | Completa |  |
@@ -18,6 +18,7 @@ Para la primera fase, solo en la zona central.
 | 200    | Completa |  |
 | 257    | Completa |  |
 | 265    | Completa |  |
+| 314    | Completa |  |
 | 359    | Completa |  |
 | 367    | Completa |  |
 | 385    | Completa |  |
