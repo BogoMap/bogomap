@@ -31,6 +31,7 @@ Para la primera fase, solo en la zona central.
 | 579    | Completa |
 | 603b   | Completa |
 | 626b   | Completa |
+| 674    | Completa |
 | 688    | Completa |
 | 669    | Completa |
 | 912    | Completa |
