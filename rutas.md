@@ -63,13 +63,13 @@ Para la primera fase, solo en la zona central.
 | 674    | Completa |  |
 | 688    | Completa |  |
 | 669    | Completa |  |
-| 722    | **San Cristobal norte** |
-| 731    | **Bosa San José** |
-| 736    | **Cl 222** |
-| 782    | **Lijacá** |
-| 787a   | **Metroviviienda** - **Teusaquillo** |
-| 796a   | **Mochuelo bajo** |
-| 801    | **Tibabita** |
+| 722    | | **San Cristobal norte** |
+| 731    | | **Bosa San José** |
+| 736    | | **Cl 222** |
+| 782    | | **Lijacá** |
+| 787a   | | **Metroviviienda** - **Teusaquillo** |
+| 796a   | | **Mochuelo bajo** |
+| 801    | | **Tibabita** |
 | 870a   | | **Canton norte** |
 | 912    | Completa | **Lijacá** |
 | 914    | | **Las Ferias** |
