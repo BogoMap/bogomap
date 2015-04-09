@@ -93,7 +93,7 @@ Para la primera fase, solo en la zona central.
 | e25    | Completa |  |
 | e26a   | | **La Chucua** |
 | e46    | | **San Antonio norte** |
-| e57    | Completa | **Casablanca* |
+| e57    | Completa | **Casablanca** |
 | e61    | Completa |  |
 | e70    | | **Portales del norte** |
 | p500   | Completa | **Aeropuerto** - **Centro Andino** |
