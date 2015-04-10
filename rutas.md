@@ -8,6 +8,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | 7      | | **Consuelo** |
 | 13     | | **Brasilia** |
 | 14     | Completa | **Betania** - ... - Cl 63 - cr 13 - **Lourdes** - cl 60 - cr 17 - cl 63 - ... - **Betania** |
+| 23     | Completa | |
 | 37     | | **Unicentro** |
 | 54     | | **Unicentro** |
 | 56a    | | **Boitá** |
