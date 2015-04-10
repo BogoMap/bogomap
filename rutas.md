@@ -25,6 +25,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | 128    | | **Villa Gladys** - **Paloquemao** |
 | 135    | | **Jacqueline** |
 | 142    | Completa | **Florida** - ... - cl 63 - cr 13 - cl 19 - cr 22 - cl 22 - cr 20 - cl 32 - **Centro** - cr 17 - tr 17 - cr 19 - cr 17 - cl 63 - ... - **Florida** |
+| 143    | Completa | ? - ... - cl 19 - **Germania** - cl 19 - ... - ? |
 | 166    | | **Prociúncula** |
 | 183    | Completa | ? - ... cl 68 - cl 100 - cr 15 - ... - **Unicentro** - ... - ? |
 | 191    | Completa | ? - ... - Americas - NQS - ... - **Unicentro** - ... - NQS - Americas - ... - ?|
