@@ -16,7 +16,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | 59b    | Completa | ? - ... - Cl 63 - cr 13 - cl 39 - cr 7 - cl 60 - cr 17 - cl 63 - ... - ? |
 | 83     | Completa | **Engativa** - cl 64C - cr 69H - cr 69I - cl 68 - cr 29B - cl 66 - cr 13 - cl 32 - cr 22 - cl 19 - **Paloquemao** - cr 27 - cl 22 - cr 20 - cl 32 - cr 17 -   cr 69M - cl 64C - **Engativa** |
 | 91     | Completa | ? - cr 33 - cr 28 - NQS - cl 45 - cr 24 - cl 72 - **Porciúncula** - cr 9 - cl 73 - cr 11 - cl 72 - cr 27C - cl 74 - cr 24 - dg 57 - tr 25  - dg 53G - cr 24 - cl 45 - NQS - cr 33 - ... - ? |
-| 97     | | **Muzú** |
+| 97     | Completa | **Muzú** cl1f, 24, 19, 3, circunvalar, cl 28, 7norte, 46, 45, 34, 57, 53b, 13, 5, 27, 3 |
 | 99     | Completa | **Bosa La Primavera** - **Germania** |
 | 107b   | Completa | **La Colina** - ... - cl 127 - cr 15 - cl 100 - cr 11 - cl 64 - cr 13 - **Centro Internacional** - cr 32 - cr 16 - cl 34 - cr 17 - tr 17 - cr 19 - cr 17 - cl 74 - cr 15 - cl 127 - ... - **La Colina** |
 | 108    | Completa | ? - ... - cl 127 - cr 15 - cl 100 - cr 11 - cl 64 - cr 13 - cl 32 - cr 16 - cr 34 - ... - **Ciudad Kennedy** - ... - cr 34 - cr 17 - tr 17 - cr 19 - cr 17 - cl 74 - cr 15 - cl 127 - ... - ? |
