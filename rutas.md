@@ -81,7 +81,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | c4     | Completa |  |
 | c7     | |**Juán José Rondón** - **Germania** |
 | c11    | Completa | **Porciúncula** - **Villa del Rio** |
-| c12a   | Completa | **San Blas** - ?? - **San Blas** |
+| c12a   | Completa | **San Blas** - **Parque Nacional** - **San Blas** |
 | c13    | | **Compartir** - **Marly**|
 | c15    | | **Germania** |
 | c18    | | **Marly** |
