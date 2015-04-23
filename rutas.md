@@ -93,6 +93,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | c49    | | **Bachué - San Bernardo** |
 | c52    | | **Villa del Rio** |
 | c53    | | **Unicentro** |
+| c12a   | Completa | |
 | c100   | | **La Magdalena** |
 | c125   | | **Villa Alsacia - El Consuelo** |
 | c135   | Completa |  |
