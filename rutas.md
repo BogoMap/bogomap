@@ -81,6 +81,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | c4     | Completa |  |
 | c7     | |**Juán José Rondón** - **Germania** |
 | c11    | Completa | **Porciúncula** - **Villa del Rio** |
+| c12a   | Completa | **San Blas** - ?? - **San Blas** |
 | c13    | | **Compartir** - **Marly**|
 | c15    | | **Germania** |
 | c18    | | **Marly** |
@@ -93,7 +94,6 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | c49    | | **Bachué - San Bernardo** |
 | c52    | | **Villa del Rio** |
 | c53    | | **Unicentro** |
-| c12a   | Completa | |
 | c100   | | **La Magdalena** |
 | c125   | | **Villa Alsacia - El Consuelo** |
 | c135   | Completa |  |
