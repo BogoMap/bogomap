@@ -102,7 +102,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | e46    | | **San Antonio norte** |
 | e57    | Completa | **Casablanca** |
 | e61    | Completa | **Casablanca** - **Porciúncula** |
-| e70    | | **Portales del norte** |
+| e70    | Completa | **Portales del norte** |
 | p500   | Completa | **Aeropuerto** - **Centro Andino** |
 | se6    | | **La Roca** |
 | z4     | | **Toberin** |
