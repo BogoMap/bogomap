@@ -60,7 +60,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | 603b   | Completa | **Patio Bonito** - **Germania** |
 | 626b   | Completa | **Puente Aranda** |
 | 639    | | **Calle cien** |
-| 652    | | **Germania** - **El Uval** |
+| 652    | Completa | **Germania** - **El Uval** |
 | 661    | | **Andalucia** |
 | 669    | | **Galan** |
 | 674    | Completa |  |
