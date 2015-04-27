@@ -62,10 +62,9 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | 639    | | **Calle cien** |
 | 652    | Completa | **Germania** - **El Uval** |
 | 661    | | **Andalucia** |
-| 669    | | **Galan** |
+| 669    | Completa | **Galan** |
 | 674    | Completa |  |
 | 688    | Completa |  |
-| 669    | Completa |  |
 | 722    | | **San Cristobal norte** |
 | 731    | | **Bosa San José** |
 | 736    | | **Cl 222** |
