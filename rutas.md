@@ -44,7 +44,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | 359    | Completa | **Paloquemao** |
 | 367    | Completa | **Porciúncula** |
 | 385    | Completa | **Germania** |
-| 402    | | **Verbenal** |
+| 402    | Completa | **Verbenal** |
 | 403a   | Completa | **Unicentro** |
 | 421    | Completa |  |
 | 442    | | **Mirandela** |
