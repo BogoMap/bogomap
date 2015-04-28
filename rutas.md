@@ -66,7 +66,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | 669    | Completa | **Galan** |
 | 674    | Completa |  |
 | 688    | Completa |  |
-| 722    | | **San Cristobal norte** |
+| 722    | Completa | **San Cristobal norte** |
 | 731    | | **Bosa San José** |
 | 736    | | **Cl 222** |
 | 781    | | |
