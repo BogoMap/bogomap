@@ -34,7 +34,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | 228    | | **Villa Teresita** |
 | 257    | Completa | **Puente Grande** - ... - cl 19 - **Germania** - cl 19 - ... - **Puente Grande** |
 | 265    | Completa | ? - ... - cl 63 - cr 8 - cl 67 - cr 9 - cl 76 - cr 15 - cl 94 - cr 11 - cl 64 - cr 15 - cl 63 - ... - ? |
-| 270    | | **La Estrellita** |
+| 270    | Completa | **La Estrellita** |
 | 282    | | **Lijacá** |
 | 283    | | **Chicó Norte** |
 | 291    | | **Lijacá** - **Av. Esperanza** |
