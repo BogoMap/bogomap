@@ -53,7 +53,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | 466    | Completa |  |
 | 488    | | **Unicentro** |
 | 494a   | Completa | **Mochuelo** |
-| 505    | | **Kasandra** - **El Nogal** |
+| 505    | Completa | **Kasandra** - **El Nogal** |
 | 544a   | Completa | **Bosa Palestina** |
 | 544b   | Completa | **Verbenal** |
 | 579    | Completa | **El Recreo** - **Centro Internacional** |
