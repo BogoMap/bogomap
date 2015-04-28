@@ -5,7 +5,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | Ruta   | Estado   | Trayecto |
 | ------ |----------|----------|
 | 4      | Completa | **San Luis** - Calera - Circunvalar - cr 7 - cl 73 - cr 11 - cl 69 - cl 68 - ... - **San Fernando** - cl 68 - cr 29B - cl 66 - cr 17 - cl 72 - cr 7 - Circunvalar - Calera - **San Luis** |
-| 7      | | **Consuelo** |
+| 7      | Completa | **Consuelo** |
 | 13     | | **Brasilia** |
 | 14     | Completa | **Betania** - ... - Cl 63 - cr 13 - **Lourdes** - cl 60 - cr 17 - cl 63 - ... - **Betania** |
 | 23     | Completa | |
