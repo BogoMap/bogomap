@@ -47,7 +47,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | 402    | Completa | **Verbenal** |
 | 403a   | Completa | **Unicentro** |
 | 421    | Completa |  |
-| 442    | | **Mirandela** |
+| 442    | Completa | **Mirandela** |
 | 451    | | **Porciúncula** |
 | 465    | Completa | **San Antonio norte** |
 | 466    | Completa |  |
