@@ -22,9 +22,9 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | 107b   | Completa | **La Colina** - ... - cl 127 - cr 15 - cl 100 - cr 11 - cl 64 - cr 13 - **Centro Internacional** - cr 32 - cr 16 - cl 34 - cr 17 - tr 17 - cr 19 - cr 17 - cl 74 - cr 15 - cl 127 - ... - **La Colina** |
 | 108    | Completa | ? - ... - cl 127 - cr 15 - cl 100 - cr 11 - cl 64 - cr 13 - cl 32 - cr 16 - cr 34 - ... - **Ciudad Kennedy** - ... - cr 34 - cr 17 - tr 17 - cr 19 - cr 17 - cl 74 - cr 15 - cl 127 - ... - ? |
 | 112    | | **Cortijo** |
-| 120    | Completa | |
 | 126    | | |
 | 128    | | **Villa Gladys** - **Paloquemao** |
+| 132    | Completa | |
 | 135    | | **Jacqueline** |
 | 142    | Completa | **Florida** - ... - cl 63 - cr 13 - cl 19 - cr 22 - cl 22 - cr 20 - cl 32 - **Centro** - cr 17 - tr 17 - cr 19 - cr 17 - cl 63 - ... - **Florida** |
 | 143    | Completa | ? - ... - cl 19 - **Germania** - cl 19 - ... - ? |
