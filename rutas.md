@@ -100,7 +100,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | c135   | Completa |  |
 | e25    | Completa |  |
 | e26a   | | **La Chucua** |
-| e46    | | **San Antonio norte** |
+| e46    | Completa | **San Antonio norte** |
 | e57    | Completa | **Casablanca** |
 | e61    | Completa | **Casablanca** - **Porciúncula** |
 | e70    | Completa | **Portales del norte** |
