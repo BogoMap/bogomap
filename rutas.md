@@ -37,7 +37,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | 265    | Completa | ? - ... - cl 63 - cr 8 - cl 67 - cr 9 - cl 76 - cr 15 - cl 94 - cr 11 - cl 64 - cr 15 - cl 63 - ... - ? |
 | 270    | Completa | **La Estrellita** |
 | 282    | | **Lijacá** |
-| 283    | | **Chicó Norte** |
+| 283    | Completa | **Chicó Norte** |
 | 291    | Completa | **Lijacá** - **Av. Esperanza** |
 | 312    | | **Lijacá** |
 | 314    | Completa | **Villa Cindy** - ... - av suba - cl 80 - cr 24 - dg 57 - tr 25  - dg 53G - cr 24 - cl 45B - cr 22 - cl 45 - cr 19 - cl 32 - cl 24 - cr 5 - **Germania** - cl 19 - cr 19bis - cr 19 - cl 23 - cr 20 - cl 32 - cr 17 - tr 17 - cr 19 - cr 17 - dg 45 - cr 23 - cl 51 - cr 24 - cl 72 - cr 28 - cl 80 - av suba - ... - **Villa Cindy** |
