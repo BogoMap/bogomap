@@ -96,7 +96,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | c52    | | **Villa del Rio** |
 | c53    | Completa | **Unicentro** |
 | c100   | | **La Magdalena** |
-| c125   | | **Villa Alsacia - El Consuelo** |
+| c125   | Completa | **Villa Alsacia - El Consuelo** |
 | c135   | Completa |  |
 | e25    | Completa |  |
 | e26a   | | **La Chucua** |
