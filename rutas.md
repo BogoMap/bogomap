@@ -52,7 +52,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | 451    | | **Porciúncula** |
 | 465    | Completa | **San Antonio norte** |
 | 466    | Completa |  |
-| 488    | | **Unicentro** |
+| 488    | Completa | **Unicentro** |
 | 494a   | Completa | **Mochuelo** |
 | 505    | Completa | **Kasandra** - **El Nogal** |
 | 544a   | Completa | **Bosa Palestina** |
