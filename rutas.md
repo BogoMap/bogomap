@@ -106,6 +106,7 @@ Para la primera fase, solo en la zona central. Las rutas que comienzan con letra
 | e70    | Completa | **Portales del norte** |
 | p500   | Completa | **Aeropuerto** - **Centro Andino** |
 | se6    | Completa | **La Roca** |
+| se10   | Completa | |
 | z4     | | **Toberin** |
 | z8     | Completa |  |
 | m80h80 | Completa |  |
