@@ -15,4 +15,4 @@ This BogoMap data is made available under the Open Database License: http://open
 
 ## Licencia para las imágenes SVG
 
-Imagenes de BogoMap está distribuido bajo una [Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional](Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional).
+Imagenes de BogoMap está distribuido bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
