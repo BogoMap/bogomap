@@ -1,0 +1,524 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+1,001,CC Iserra 100 ,001A00 CC Iserra 100 ,-74.0640725856,4.6884528697,0,,0,,co,0
+2,002,San Felipe  ,002A00 San Felipe  ,-74.0660015489,4.6624454976,0,,0,,co,0
+3,003,Pq Alcázares  ,003A00 Pq Alcázares  ,-74.068786987,4.6641301211,0,,0,,co,0
+4,004,Av Chile  ,004A00 Av Chile  ,-74.0701792762,4.6655074926,0,,0,,co,0
+5,005,Alcázares   ,005A00 Alcázares   ,-74.0704881598,4.6653937667,0,,0,,co,0
+6,006,Monumento Rafael Uribe Uribe,006A00 Monumento Rafael Uribe Uribe,-74.07190297,4.6664444329,0,,0,,co,0
+7,007,El Listón  ,007A00 El Listón  ,-74.0817801176,4.6129249411,0,,0,,co,0
+8,008,Estacion Comuneros  ,008A00 Estacion Comuneros  ,-74.0966290422,4.6058895718,0,,0,,co,0
+9,010,IED Ricaurte  ,010A00 IED Ricaurte  ,-74.0946660293,4.6054713826,0,,0,,co,0
+10,012,San Bernardo  ,012A00 San Bernardo  ,-74.08800963,4.5915228423,0,,0,,co,0
+11,014,Centro Johannes Kepler ,014A00 Centro Johannes Kepler ,-74.0669494774,4.6498872962,0,,0,,co,0
+12,015,Cl 67  ,015A00 Cl 67  ,-74.0583703638,4.6501594316,0,,0,,co,0
+13,016,Muequeta   ,016A00 Muequeta   ,-74.0720228758,4.65103928,0,,0,,co,0
+14,017,Quinta Mutis  ,017A00 Quinta Mutis  ,-74.0739823998,4.6514120963,0,,0,,co,0
+15,018,Nuestra Señora del Pilar,018A00 Nuestra Señora del Pilar,-74.0749337101,4.6512892515,0,,0,,co,0
+16,019,IDE Alemania Solidaria ,019A00 IDE Alemania Solidaria ,-74.075637349,4.6517439777,0,,0,,co,0
+17,020,7 de agosto ,020A00 7 de agosto ,-74.0703884439,4.6581743411,0,,0,,co,0
+18,021,Pl 7 de agosto,021A00 Pl 7 de agosto,-74.0709050914,4.6568730215,0,,0,,co,0
+19,022,San Luis  ,022A00 San Luis  ,-74.0723835019,4.6458383929,0,,0,,co,0
+20,023,San Luis  ,023A00 San Luis  ,-74.072921349,4.6439824521,0,,0,,co,0
+21,025,Palermo Ac 45 ,025A00 Palermo Ac 45 ,-74.0752074515,4.6351833568,0,,0,,co,0
+22,026,Pq el Renacimiento ,026A00 Pq el Renacimiento ,-74.0778983461,4.6187399053,0,,0,,co,0
+23,027,Cementerio Central  ,027A00 Cementerio Central  ,-74.0752482225,4.6180884096,0,,0,,co,0
+24,030,El Vergel  ,030A00 El Vergel  ,-74.0957254022,4.5997604162,0,,0,,co,0
+25,031,Santa Isabel  ,031A00 Santa Isabel  ,-74.098491226,4.601696902,0,,0,,co,0
+26,032,Veraguas   ,032A00 Veraguas   ,-74.0969286952,4.6009226656,0,,0,,co,0
+27,033,Veraguas   ,033A00 Veraguas   ,-74.0999311951,4.6030615029,0,,0,,co,0
+28,034,Estación Marly  ,034A00 Estación Marly  ,-74.0655351989,4.6405160881,0,,0,,co,0
+29,035,Banco Central  ,035A00 Banco Central  ,-74.070909277,4.6413558904,0,,0,,co,0
+30,037,CC Galerías  ,037A00 CC Galerías  ,-74.0749651386,4.6417886074,0,,0,,co,0
+31,038,Galerías   ,038A00 Galerías   ,-74.0766208202,4.6421000713,0,,0,,co,0
+32,039,Chicó Oriental  ,039A00 Chicó Oriental  ,-74.0446729143,4.6692653744,0,,0,,co,0
+33,040,El Refugio  ,040A00 El Refugio  ,-74.0463188712,4.6659060671,0,,0,,co,0
+34,041,Embajada del Perú ,041A00 Embajada del Perú ,-74.0489442996,4.6625362444,0,,0,,co,0
+35,042,La Estanzuela  ,042A00 La Estanzuela  ,-74.089771891,4.6008399362,0,,0,,co,0
+36,043,La Estanzuela  ,043A00 La Estanzuela  ,-74.0855295479,4.5979221474,0,,0,,co,0
+37,044,Embajada de Francia ,044A00 Embajada de Francia ,-74.0479545007,4.6741241902,0,,0,,co,0
+38,045,La Cabrera  ,045A00 La Cabrera  ,-74.0512875788,4.668425308,0,,0,,co,0
+39,046,Cra 8  ,046A00 Cra 8  ,-74.0604304667,4.6482378213,0,,0,,co,0
+40,047,Cl del Niño ,047A00 Cl del Niño ,-74.0619356076,4.651902652,0,,0,,co,0
+41,048,Santa Isabel sur ,048A00 Santa Isabel sur ,-74.1018052027,4.5963776205,0,,0,,co,0
+42,049,Bellavista   ,049A00 Bellavista   ,-74.0549830952,4.655546956,0,,0,,co,0
+43,050,Colombia   ,050A00 Colombia   ,-74.0662028463,4.6621627521,0,,0,,co,0
+44,051,Iglesia Siervas de María,051A00 Iglesia Siervas de María,-74.0685813194,4.6643801253,0,,0,,co,0
+45,053,CC Chapinero  ,053A00 CC Chapinero  ,-74.0625103344,4.64914444,0,,0,,co,0
+46,054,Estación cl 63 ,054A00 Estación cl 63 ,-74.0651366027,4.6495411344,0,,0,,co,0
+47,055,Quesada   ,055A00 Quesada   ,-74.0677897161,4.6408574299,0,,0,,co,0
+48,056,Marly   ,056A00 Marly   ,-74.0638872513,4.6399696985,0,,0,,co,0
+49,057,Confenalco   ,057A00 Confenalco   ,-74.0637983888,4.6396244601,0,,0,,co,0
+50,059,Veraguas   ,059A00 Veraguas   ,-74.0959979058,4.6045613828,0,,0,,co,0
+51,060,La Estanzuela  ,060A00 La Estanzuela  ,-74.0868499517,4.5980605286,0,,0,,co,0
+52,061,El Progreso  ,061A00 El Progreso  ,-74.0900048817,4.6002901988,0,,0,,co,0
+53,062,El Progreso  ,062A00 El Progreso  ,-74.0925066415,4.6020698245,0,,0,,co,0
+54,063,Pq Tercer Milenio ,063A00 Pq Tercer Milenio ,-74.0833873378,4.596387396,0,,0,,co,0
+55,064,San Bernardo  ,064A00 San Bernardo  ,-74.0842164415,4.5965114144,0,,0,,co,0
+56,067,CC Calima  ,067A00 CC Calima  ,-74.086109167,4.616526165,0,,0,,co,0
+57,076,Santa Teresita  ,076A00 Santa Teresita  ,-74.0695721749,4.6327432562,0,,0,,co,0
+58,077,Santa Teresita  ,077A00 Santa Teresita  ,-74.0747736396,4.6336840869,0,,0,,co,0
+59,078,Palermo   ,078A00 Palermo   ,-74.0730510838,4.6336340904,0,,0,,co,0
+60,083,Estación cl 45 ,083A00 Estación cl 45 ,-74.0684183876,4.6325008401,0,,0,,co,0
+61,084,Estación cl 45 ,084A00 Estación cl 45 ,-74.0683170687,4.6327610314,0,,0,,co,0
+62,085,Santa Teresita  ,085A00 Santa Teresita  ,-74.0724091047,4.6332688568,0,,0,,co,0
+63,086,Palermo   ,086A00 Palermo   ,-74.0712723602,4.6332864929,0,,0,,co,0
+64,087,Santa Isabel sur ,087A00 Santa Isabel sur ,-74.104502359,4.5965913297,0,,0,,co,0
+65,088,Concejo de Bogotá ,088A00 Concejo de Bogotá ,-74.0775964029,4.624587397,0,,0,,co,0
+66,089,INPEC   ,089A00 INPEC   ,-74.0777919308,4.6242982842,0,,0,,co,0
+67,090,Conaced   ,090A00 Conaced   ,-74.0758646646,4.6242195974,0,,0,,co,0
+68,091,Urb la Victoria ,091A00 Urb la Victoria ,-74.076856887,4.6241663471,0,,0,,co,0
+69,092,Teusaquillo   ,092A00 Teusaquillo   ,-74.0702219375,4.6229566221,0,,0,,co,0
+70,093,Samper   ,093A00 Samper   ,-74.0677082636,4.6216267375,0,,0,,co,0
+71,094,Centro de negocios Chico,094A00 Centro de negocios Chico,-74.0481793358,4.6842057749,0,,0,,co,0
+72,095,Sede comunal Once de,095A00 Sede comunal Once de,-74.071495235,4.6664761053,0,,0,,co,0
+73,096,La Alameda  ,096A00 La Alameda  ,-74.0746391694,4.6090991888,0,,0,,co,0
+74,097,La Alameda  ,097A00 La Alameda  ,-74.073168529,4.6108315957,0,,0,,co,0
+75,098,Almacenes Tía  ,098A00 Almacenes Tía  ,-74.0644707953,4.6442685461,0,,0,,co,0
+76,099,Br San Felipe ,099A00 Br San Felipe ,-74.0623537972,4.6614522507,0,,0,,co,0
+77,100,Concepción Norte  ,100A00 Concepción Norte  ,-74.0636591502,4.6593286334,0,,0,,co,0
+78,101,Br La Esperanza ,101A00 Br La Esperanza ,-74.0673530289,4.6507413566,0,,0,,co,0
+79,102,Cl 58b  ,102A00 Cl 58b  ,-74.0683317562,4.6455573162,0,,0,,co,0
+80,103,Cl 51  ,103A00 Cl 51  ,-74.0695676883,4.6386753833,0,,0,,co,0
+81,104,Chapinero Norte  ,104A00 Chapinero Norte  ,-74.0602290835,4.6492778411,0,,0,,co,0
+82,105,Cra 9  ,105A00 Cra 9  ,-74.0556834678,4.6574507462,0,,0,,co,0
+83,106,Gimnasio Moderno  ,106A00 Gimnasio Moderno  ,-74.0539127573,4.6601987162,0,,0,,co,0
+84,107,El Nogal  ,107A00 El Nogal  ,-74.0529382724,4.6615726972,0,,0,,co,0
+85,116,Av 15  ,116A00 Av 15  ,-74.0493801414,4.679054947,0,,0,,co,0
+86,117,CC las Rampas ,117A00 CC las Rampas ,-74.0698309125,4.6585020471,0,,0,,co,0
+87,119,La Soledad  ,119A00 La Soledad  ,-74.0741721503,4.624449159,0,,0,,co,0
+88,120,teusaquillo   ,120A00 teusaquillo   ,-74.0746821184,4.6218421357,0,,0,,co,0
+89,121,Teusaquillo   ,121A00 Teusaquillo   ,-74.0742175095,4.6207976667,0,,0,,co,0
+90,122,Santa Isabel sur ,122A00 Santa Isabel sur ,-74.1059974849,4.5977732472,0,,0,,co,0
+91,123,La Castellana  ,123A00 La Castellana  ,-74.0609254036,4.6779673174,0,,0,,co,0
+92,125,Estación Av el Dorado,125A00 Estación Av el Dorado,-74.0794881419,4.6316328691,0,,0,,co,0
+93,126,   ,126A00    ,-74.0903127752,4.6156834904,0,,0,,co,0
+94,128,Santa Isabel sur ,128A00 Santa Isabel sur ,-74.103706403,4.6004430587,0,,0,,co,0
+95,128,Santafé   ,128A00 Santafé   ,-74.0799839816,4.6151507489,0,,0,,co,0
+96,129,El Chicó  ,129A00 El Chicó  ,-74.0520051496,4.6737988625,0,,0,,co,0
+97,130,El Chicó  ,130A00 El Chicó  ,-74.0499884729,4.6727010464,0,,0,,co,0
+98,131,Escuela de infantería ,131A00 Escuela de infantería ,-74.0414195519,4.6813055389,0,,0,,co,0
+99,132,Torre de las Américas,132A00 Torre de las Américas,-74.0801569798,4.6239657279,0,,0,,co,0
+100,133,Plaza de la Democracia,133A00 Plaza de la Democracia,-74.0799387451,4.6242939495,0,,0,,co,0
+101,134,Estación centro Memoria ,134A00 Estación centro Memoria ,-74.0751759042,4.620245266,0,,0,,co,0
+102,135,Armenia   ,135A00 Armenia   ,-74.0733349045,4.6204589626,0,,0,,co,0
+103,136,Teusaquillo   ,136A00 Teusaquillo   ,-74.072223754,4.6210082901,0,,0,,co,0
+104,138,Teusaquillo   ,138A00 Teusaquillo   ,-74.0709872916,4.6208576392,0,,0,,co,0
+105,140,San Martín  ,140A00 San Martín  ,-74.069038852,4.6189309118,0,,0,,co,0
+106,141,La Soledad  ,141A00 La Soledad  ,-74.0735747982,4.6250888356,0,,0,,co,0
+107,142,La Soledad  ,142A00 La Soledad  ,-74.0729910641,4.6285719773,0,,0,,co,0
+108,143,Canal Arzobispo  ,143A00 Canal Arzobispo  ,-74.0722623769,4.6306547672,0,,0,,co,0
+109,144,Santa Teresita  ,144A00 Santa Teresita  ,-74.0722448286,4.6320271958,0,,0,,co,0
+110,145,Palermo   ,145A00 Palermo   ,-74.0716176719,4.6340735715,0,,0,,co,0
+111,147,La Magdalena  ,147A00 La Magdalena  ,-74.0726515766,4.6269309317,0,,0,,co,0
+112,149,IED Alemania Solidaria sede,149A00 IED Alemania Solidaria sede,-74.075081847,4.6602507879,0,,0,,co,0
+113,150,Colegio Marillac  ,150A00 Colegio Marillac  ,-74.0732695427,4.6589834067,0,,0,,co,0
+114,151,Almacenes Tía  ,151A00 Almacenes Tía  ,-74.0713621667,4.6576864113,0,,0,,co,0
+115,152,Cra 17  ,152A00 Cra 17  ,-74.0672324897,4.6547193034,0,,0,,co,0
+116,153,Av Caracas  ,153A00 Av Caracas  ,-74.0645526561,4.6533393866,0,,0,,co,0
+117,154,La Sabana  ,154A00 La Sabana  ,-74.0886006877,4.6092350029,0,,0,,co,0
+118,155,Progreso   ,155A00 Progreso   ,-74.0935123965,4.6020190084,0,,0,,co,0
+119,156,El Vergel cl 2B,156A00 El Vergel cl 2B,-74.0950398333,4.5990062691,0,,0,,co,0
+120,157,El Vergel  ,157A00 El Vergel  ,-74.0960424196,4.5955278217,0,,0,,co,0
+121,159,Paloquemao   ,159A00 Paloquemao   ,-74.0848594087,4.61301718,0,,0,,co,0
+122,160,IED Palermo  ,160A00 IED Palermo  ,-74.0744876489,4.6378121758,0,,0,,co,0
+123,161,La Soledad  ,161A00 La Soledad  ,-74.0748322838,4.6327306304,0,,0,,co,0
+124,162,Partido Conservador Colombiano ,162A00 Partido Conservador Colombiano ,-74.0750373592,4.6274636838,0,,0,,co,0
+125,163,Escuela de caballería ,163A00 Escuela de caballería ,-74.0378459904,4.6800862688,0,,0,,co,0
+126,163,La Soledad  ,163A00 La Soledad  ,-74.0755521599,4.6273866808,0,,0,,co,0
+127,165,La Soledad  ,165A00 La Soledad  ,-74.0752303787,4.6313283546,0,,0,,co,0
+128,167,Auto Norte  ,167A00 Auto Norte  ,-74.0540250856,4.6860024903,0,,0,,co,0
+129,168,Estación polo  ,168A00 Estación polo  ,-74.0644724286,4.6707332205,0,,0,,co,0
+130,169,Estación el Polo ,169A00 Estación el Polo ,-74.0646299546,4.6701529977,0,,0,,co,0
+131,170,El Campín  ,170A00 El Campín  ,-74.0730053199,4.6493968748,0,,0,,co,0
+132,171,Paloquemao   ,171A00 Paloquemao   ,-74.0859860349,4.6156728491,0,,0,,co,0
+133,175,Cli Meredi  ,175A00 Cli Meredi  ,-74.0832620508,4.6239781218,0,,0,,co,0
+134,177,CAI Paloquemao  ,177A00 CAI Paloquemao  ,-74.0864331904,4.612615076,0,,0,,co,0
+135,177,Estación Simón Bolívar ,177A00 Estación Simón Bolívar ,-74.0773581248,4.657762195,0,,0,,co,0
+136,178,Estación Avenida Chile ,178A00 Estación Avenida Chile ,-74.0733482039,4.6672633054,0,,0,,co,0
+137,179,Estación NQS cl 75,179A00 Estación NQS cl 75,-74.0704829444,4.6706138497,0,,0,,co,0
+138,182,Teusaquillo   ,182A00 Teusaquillo   ,-74.0741058381,4.6239530785,0,,0,,co,0
+139,183,Teusaquillo   ,183A00 Teusaquillo   ,-74.0742428032,4.6236720277,0,,0,,co,0
+140,184,Federación Colombiana de Fútbol,184A00 Federación Colombiana de Fútbol,-74.0714899193,4.6212555614,0,,0,,co,0
+141,186,San Luis  ,186A00 San Luis  ,-74.0735108312,4.6450869972,0,,0,,co,0
+142,187,San Luis  ,187A00 San Luis  ,-74.0738449077,4.6468040679,0,,0,,co,0
+143,188,Galerías   ,188A00 Galerías   ,-74.0740717482,4.6438225033,0,,0,,co,0
+144,191,Fecode   ,191A00 Fecode   ,-74.0681594388,4.6223645794,0,,0,,co,0
+145,192,Rafael Uribe  ,192A00 Rafael Uribe  ,-74.0693894289,4.6561998977,0,,0,,co,0
+146,193,La Esperanza  ,193A00 La Esperanza  ,-74.0668403189,4.6537421094,0,,0,,co,0
+147,194,Samper Mendoza  ,194A00 Samper Mendoza  ,-74.0819804873,4.6164655905,0,,0,,co,0
+148,195,   ,195A00    ,-74.09323803,4.6026055469,0,,0,,co,0
+149,196,Samper Mendoza  ,196A00 Samper Mendoza  ,-74.0806257156,4.614961222,0,,0,,co,0
+150,197,Santafé   ,197A00 Santafé   ,-74.0789857287,4.6180884096,0,,0,,co,0
+151,198,F Oftalmológica Nacional ,198A00 F Oftalmológica Nacional ,-74.06559676,4.6374676019,0,,0,,co,0
+152,199,Santafé   ,199A00 Santafé   ,-74.0780053018,4.6162405277,0,,0,,co,0
+153,200,San Andresito  ,200A00 San Andresito  ,-74.0906151917,4.6064124451,0,,0,,co,0
+154,201,Eduardo Santos  ,201A00 Eduardo Santos  ,-74.0900585233,4.5951331702,0,,0,,co,0
+155,202,El Vergel  ,202A00 El Vergel  ,-74.0932968454,4.5981296395,0,,0,,co,0
+156,203,El Progreso  ,203A00 El Progreso  ,-74.0937469248,4.5986853261,0,,0,,co,0
+157,204,El Vergel  ,204A00 El Vergel  ,-74.0962914008,4.5958525695,0,,0,,co,0
+158,205,El Vergel  ,205A00 El Vergel  ,-74.0969324671,4.5959528256,0,,0,,co,0
+159,206,Santa Isabel sur ,206A00 Santa Isabel sur ,-74.0998062026,4.5978084868,0,,0,,co,0
+160,207,Santa Isabel sur ,207A00 Santa Isabel sur ,-74.0982403334,4.5965519682,0,,0,,co,0
+161,209,Colseguros   ,209A00 Colseguros   ,-74.0848976135,4.622071791,0,,0,,co,0
+162,211,La Castellana  ,211A00 La Castellana  ,-74.0596939344,4.6871920055,0,,0,,co,0
+163,212,Centro empresarial cl 100,212A00 Centro empresarial cl 100,-74.0527786966,4.6857952671,0,,0,,co,0
+164,213,Chicó norte III sector,213A00 Chicó norte III sector,-74.0503088851,4.6853875069,0,,0,,co,0
+165,214,Chicó norte II sector,214A00 Chicó norte II sector,-74.0462817068,4.6838196363,0,,0,,co,0
+166,215,Colsanitas cl 100 ,215A00 Colsanitas cl 100 ,-74.0450814103,4.6832248564,0,,0,,co,0
+167,216,Universidad militar Nueva granada,216A00 Universidad militar Nueva granada,-74.0430312243,4.6822107137,0,,0,,co,0
+168,217,Pq público La Reserva,217A00 Pq público La Reserva,-74.0396166976,4.6783404056,0,,0,,co,0
+169,218,Chicó norte II sector,218A00 Chicó norte II sector,-74.0443578176,4.6810330823,0,,0,,co,0
+170,219,   ,219A00    ,-74.0456585126,4.6786499141,0,,0,,co,0
+171,219,Chicó norte  ,219A00 Chicó norte  ,-74.0457118303,4.6783900168,0,,0,,co,0
+172,220,Pq de la 93,220A00 Pq de la 93,-74.0467691118,4.6764454343,0,,0,,co,0
+173,221,Seguros del Estado ,221A00 Seguros del Estado ,-74.0487264067,4.6726048138,0,,0,,co,0
+174,222,Parroquia de la Inmaculada,222A00 Parroquia de la Inmaculada,-74.0492928505,4.6715433454,0,,0,,co,0
+175,223,CC Andino  ,223A00 CC Andino  ,-74.0524937939,4.6666074319,0,,0,,co,0
+176,224,Esparillal   ,224A00 Esparillal   ,-74.0540988344,4.6641001333,0,,0,,co,0
+177,225,La Porciuncula  ,225A00 La Porciuncula  ,-74.0571213411,4.6597365108,0,,0,,co,0
+178,226,U Pedagógica Nal ,226A00 U Pedagógica Nal ,-74.0584441362,4.6578356451,0,,0,,co,0
+179,227,Cl de Traumatología y,227A00 Cl de Traumatología y,-74.0594187853,4.656586559,0,,0,,co,0
+180,228,Quinta Camacho  ,228A00 Quinta Camacho  ,-74.0607852765,4.6543868008,0,,0,,co,0
+181,229,Cl del Niño ,229A00 Cl del Niño ,-74.0614451497,4.6530453033,0,,0,,co,0
+182,230,Centro Cosmos 64 ,230A00 Centro Cosmos 64 ,-74.0632515428,4.6516844363,0,,0,,co,0
+183,231,Parque Lourdes  ,231A00 Parque Lourdes  ,-74.0635505579,4.6502321255,0,,0,,co,0
+184,232,Cuerpo Oficial de Bomberos,232A00 Cuerpo Oficial de Bomberos,-74.063962835,4.6473603875,0,,0,,co,0
+185,233,Tecnoparque SENA  ,233A00 Tecnoparque SENA  ,-74.0650876889,4.6406915362,0,,0,,co,0
+186,234,U Piloto  ,234A00 U Piloto  ,-74.0662652627,4.6333196014,0,,0,,co,0
+187,235,U La Gran Colombia,235A00 U La Gran Colombia,-74.0665402349,4.6317815909,0,,0,,co,0
+188,236,Sucre   ,236A00 Sucre   ,-74.0672681574,4.6276293788,0,,0,,co,0
+189,237,RCN Radio  ,237A00 RCN Radio  ,-74.0674470298,4.6264396944,0,,0,,co,0
+190,238,San Martín  ,238A00 San Martín  ,-74.0688189987,4.618461539,0,,0,,co,0
+191,239,Parque Central Bavaria ,239A00 Parque Central Bavaria ,-74.069209684,4.6166506749,0,,0,,co,0
+192,240,Edificio Bavaria  ,240A00 Edificio Bavaria  ,-74.0705094924,4.6151699977,0,,0,,co,0
+193,241,La Capuchina  ,241A00 La Capuchina  ,-74.075057164,4.6074656192,0,,0,,co,0
+194,242,Estación las Nieves ,242A00 Estación las Nieves ,-74.0736577633,4.6064825521,0,,0,,co,0
+195,243,Veracruz   ,243A00 Veracruz   ,-74.0726926252,4.6058498949,0,,0,,co,0
+196,244,Pl las Nieves ,244A00 Pl las Nieves ,-74.0724592901,4.6062010802,0,,0,,co,0
+197,245,Las Nieves  ,245A00 Las Nieves  ,-74.0705470532,4.6048125417,0,,0,,co,0
+198,246,Veracruz   ,246A00 Veracruz   ,-74.070709391,4.6044875887,0,,0,,co,0
+199,247,Veracruz   ,247A00 Veracruz   ,-74.0694350877,4.6036156518,0,,0,,co,0
+200,248,Las Nieves  ,248A00 Las Nieves  ,-74.0693389221,4.6040263219,0,,0,,co,0
+201,249,La Alameda  ,249A00 La Alameda  ,-74.0747808572,4.6077381587,0,,0,,co,0
+202,254,XXX   ,254A00 XXX   ,-74.0794301635,4.6111277026,0,,0,,co,0
+203,255,El Listón  ,255A00 El Listón  ,-74.0818775622,4.6127958027,0,,0,,co,0
+204,256,Pl Paloquemao  ,256A00 Pl Paloquemao  ,-74.0851772732,4.6158733198,0,,0,,co,0
+205,258,Complejo Judicial Paloquemao ,258A00 Complejo Judicial Paloquemao ,-74.0868311841,4.6168335294,0,,0,,co,0
+206,259,Galerías   ,259A00 Galerías   ,-74.0765404806,4.64239325,0,,0,,co,0
+207,261,Quesada   ,261A00 Quesada   ,-74.0677639429,4.6404973134,0,,0,,co,0
+208,262,Quesada   ,262A00 Quesada   ,-74.0656539705,4.640179812,0,,0,,co,0
+209,263,IED Manuela Beltrán ,263A00 IED Manuela Beltrán ,-74.0667820253,4.6443983069,0,,0,,co,0
+210,264,IED Manuela Beltrán ,264A00 IED Manuela Beltrán ,-74.06714742,4.6441539988,0,,0,,co,0
+211,265,Pq el Divino Salvador,265A00 Pq el Divino Salvador,-74.0687483177,4.6447312692,0,,0,,co,0
+212,266,Parroquia el Divino Dalvador,266A00 Parroquia el Divino Dalvador,-74.0690567717,4.6445025801,0,,0,,co,0
+213,267,San Luis  ,267A00 San Luis  ,-74.0706938412,4.6450736104,0,,0,,co,0
+214,268,San Luis  ,268A00 San Luis  ,-74.0729627386,4.6454277216,0,,0,,co,0
+215,270,San Luis  ,270A00 San Luis  ,-74.07464155,4.6457218844,0,,0,,co,0
+216,271,Estadio Nemesio Camacho el,271A00 Estadio Nemesio Camacho el,-74.0760738496,4.645558605,0,,0,,co,0
+217,273,La Soledad  ,273A00 La Soledad  ,-74.0782666301,4.6342107446,0,,0,,co,0
+218,274,Col el Carmelo ,274A00 Col el Carmelo ,-74.0766983943,4.6342895513,0,,0,,co,0
+219,275,Col el Carmelo ,275A00 Col el Carmelo ,-74.0766373558,4.6338924857,0,,0,,co,0
+220,276,Palermo   ,276A00 Palermo   ,-74.0694534872,4.6329704951,0,,0,,co,0
+221,277,Marly   ,277A00 Marly   ,-74.0667722326,4.6324724562,0,,0,,co,0
+222,278,Sucre   ,278A00 Sucre   ,-74.066839972,4.6322066635,0,,0,,co,0
+223,279,Cl 67  ,279A00 Cl 67  ,-74.0594090901,4.6519903085,0,,0,,co,0
+224,281,CC La Cabrera ,281A00 CC La Cabrera ,-74.0519429371,4.6680343011,0,,0,,co,0
+225,284,Cra 14  ,284A00 Cra 14  ,-74.0501698737,4.6789830266,0,,0,,co,0
+226,285,Chicó norte  ,285A00 Chicó norte  ,-74.0474953918,4.6775767452,0,,0,,co,0
+227,286,Chicó norte  ,286A00 Chicó norte  ,-74.0468492178,4.6777775007,0,,0,,co,0
+228,290,Hotel Dann Carlton ,290A00 Hotel Dann Carlton ,-74.0540413753,4.6819101164,0,,0,,co,0
+229,292,Chicó norte III sector,292A00 Chicó norte III sector,-74.0524651506,4.6845357539,0,,0,,co,0
+230,293,Chicó III sector ,293A00 Chicó III sector ,-74.0522877673,4.6837205042,0,,0,,co,0
+231,294,El Retiro  ,294A00 El Retiro  ,-74.0507292375,4.6655212808,0,,0,,co,0
+232,295,CC Andino  ,295A00 CC Andino  ,-74.0528132222,4.6673935233,0,,0,,co,0
+233,296,Pq Leon de Greiff,296A00 Pq Leon de Greiff,-74.0543140098,4.6688717371,0,,0,,co,0
+234,297,Embajada de Inglaterra ,297A00 Embajada de Inglaterra ,-74.0558520891,4.6608147584,0,,0,,co,0
+235,298,Embajada de Paz de,298A00 Embajada de Paz de,-74.0574370231,4.6618586825,0,,0,,co,0
+236,300,U Sergio Arboleda ,300A00 U Sergio Arboleda ,-74.0599220227,4.6613817349,0,,0,,co,0
+237,301,Br Porciuncula  ,301A00 Br Porciuncula  ,-74.0592538467,4.6623443577,0,,0,,co,0
+238,302,CC Unilago  ,302A00 CC Unilago  ,-74.0583075771,4.6641440546,0,,0,,co,0
+239,303,CC Atlantis Plaza ,303A00 CC Atlantis Plaza ,-74.0572145135,4.6660041249,0,,0,,co,0
+240,304,Cl del Country ,304A00 Cl del Country ,-74.0556092813,4.6690159418,0,,0,,co,0
+241,305,CC Artelana  ,305A00 CC Artelana  ,-74.0549845184,4.6703542982,0,,0,,co,0
+242,306,Pq del Virrey ,306A00 Pq del Virrey ,-74.0541655797,4.6721589093,0,,0,,co,0
+243,307,CADE chico  ,307A00 CADE chico  ,-74.0534625818,4.6734736773,0,,0,,co,0
+244,308,CC La Plazuela ,308A00 CC La Plazuela ,-74.0526470675,4.6751685461,0,,0,,co,0
+245,309,CC Centro 93 ,309A00 CC Centro 93 ,-74.0515037023,4.6773884561,0,,0,,co,0
+246,310,Cámara de Comercio sede,310A00 Cámara de Comercio sede,-74.0511046929,4.6782163584,0,,0,,co,0
+247,311,Chicó nte 2o sector,311A00 Chicó nte 2o sector,-74.049639327,4.6810013897,0,,0,,co,0
+248,312,Chicó nte 2o sector,312A00 Chicó nte 2o sector,-74.0488441781,4.6825330149,0,,0,,co,0
+249,314,U Pedagógica Nal ,314A00 U Pedagógica Nal ,-74.0590243114,4.6576048553,0,,0,,co,0
+250,315,CC Avenida Chile ,315A00 CC Avenida Chile ,-74.0580129464,4.6568525135,0,,0,,co,0
+251,316,Cr 8  ,316A00 Cr 8  ,-74.056234723,4.6556760231,0,,0,,co,0
+252,317,Colombia   ,317A00 Colombia   ,-74.063735895,4.6604551591,0,,0,,co,0
+253,318,El Nogal  ,318A00 El Nogal  ,-74.0517737216,4.6635059472,0,,0,,co,0
+254,319,U Pedagógica Nal ,319A00 U Pedagógica Nal ,-74.0596178406,4.6575487165,0,,0,,co,0
+255,320,CC Avenida Chile ,320A00 CC Avenida Chile ,-74.0581993571,4.6565669754,0,,0,,co,0
+256,321,Estación Ricaurte  ,321A00 Estación Ricaurte  ,-74.0891521112,4.6123261779,0,,0,,co,0
+257,322,Ricaurte   ,322A00 Ricaurte   ,-74.0923392714,4.6083942048,0,,0,,co,0
+258,323,Veraguas   ,323A00 Veraguas   ,-74.0976295533,4.6017866427,0,,0,,co,0
+259,324,Cenda   ,324A00 Cenda   ,-74.0718464382,4.6507083576,0,,0,,co,0
+260,325,Br San Luis ,325A00 Br San Luis ,-74.068786491,4.6501994726,0,,0,,co,0
+261,326,Av Caracas  ,326A00 Av Caracas  ,-74.0639020092,4.6554048189,0,,0,,co,0
+262,327,   ,327A00    ,-74.0659984667,4.6566748107,0,,0,,co,0
+263,328,Alcázares   ,328A00 Alcázares   ,-74.0703401459,4.659694088,0,,0,,co,0
+264,329,   ,329A00    ,-74.0725999698,4.6612654952,0,,0,,co,0
+265,330,Cementerio Chapinero  ,330A00 Cementerio Chapinero  ,-74.0740241743,4.6623413698,0,,0,,co,0
+266,331,Juan XXIII  ,331A00 Juan XXIII  ,-74.0642137368,4.6678341515,0,,0,,co,0
+267,332,La Aurora  ,332A00 La Aurora  ,-74.0656453842,4.6656779228,0,,0,,co,0
+268,333,San Felipe  ,333A00 San Felipe  ,-74.065518405,4.6653144079,0,,0,,co,0
+269,335,Alcázares Norte  ,335A00 Alcázares Norte  ,-74.0667535923,4.6638553357,0,,0,,co,0
+270,336,Los Alcázares  ,336A00 Los Alcázares  ,-74.0692711546,4.6599595607,0,,0,,co,0
+271,337,Quinta Mutis  ,337A00 Quinta Mutis  ,-74.0720015241,4.6546856725,0,,0,,co,0
+272,338,Muequeta   ,338A00 Muequeta   ,-74.0717342751,4.6542143318,0,,0,,co,0
+273,339,Quinta Mutis  ,339A00 Quinta Mutis  ,-74.072382796,4.6524144414,0,,0,,co,0
+274,340,Muequetá   ,340A00 Muequetá   ,-74.0721626925,4.6517863878,0,,0,,co,0
+275,341,San Luis cl 61F,341A00 San Luis cl 61F,-74.0726024359,4.6496494347,0,,0,,co,0
+276,342,Museo del Chicó ,342A00 Museo del Chicó ,-74.042579513,4.6739543974,0,,0,,co,0
+277,343,Seminario Canciller de Bogotá,343A00 Seminario Canciller de Bogotá,-74.0419043403,4.6740551958,0,,0,,co,0
+278,344,Museo El Chicó ,344A00 Museo El Chicó ,-74.0409636681,4.6753000062,0,,0,,co,0
+279,346,Santa Isabel sur ,346A00 Santa Isabel sur ,-74.1064017336,4.5984992406,0,,0,,co,0
+280,347,Teusaquillo   ,347A00 Teusaquillo   ,-74.0720276686,4.6239636944,0,,0,,co,0
+281,348,El Chicó  ,348A00 El Chicó  ,-74.0444553934,4.6704235467,0,,0,,co,0
+282,349,CAI Teusaquillo  ,349A00 CAI Teusaquillo  ,-74.0717543375,4.6235505901,0,,0,,co,0
+283,350,Teusaquillo   ,350A00 Teusaquillo   ,-74.0718723093,4.6232706602,0,,0,,co,0
+284,351,Urb La Magdalena ,351A00 Urb La Magdalena ,-74.0726278087,4.6289505411,0,,0,,co,0
+285,352,Sabio Caldas  ,352A00 Sabio Caldas  ,-74.0702807261,4.6355601318,0,,0,,co,0
+286,353,Cl Eusalud  ,353A00 Cl Eusalud  ,-74.0688368246,4.643028421,0,,0,,co,0
+287,354,Centro Johannes Kepler ,354A00 Centro Johannes Kepler ,-74.0676364183,4.6494568075,0,,0,,co,0
+288,355,Br Concepcion norte ,355A00 Br Concepcion norte ,-74.0653032681,4.6567309187,0,,0,,co,0
+289,356,Galerías   ,356A00 Galerías   ,-74.0739858079,4.641205343,0,,0,,co,0
+290,357,Santa Isabel sur ,357A00 Santa Isabel sur ,-74.1015159432,4.5950890812,0,,0,,co,0
+291,358,El vergel  ,358A00 El vergel  ,-74.0979777271,4.594839049,0,,0,,co,0
+292,359,Eduardo Santos  ,359A00 Eduardo Santos  ,-74.0931475899,4.5934349108,0,,0,,co,0
+293,360,Eduardo Santos  ,360A00 Eduardo Santos  ,-74.0910928056,4.5928037263,0,,0,,co,0
+294,362,CC Galerías  ,362A00 CC Galerías  ,-74.0741172161,4.6413289025,0,,0,,co,0
+295,363,La Cabrera  ,363A00 La Cabrera  ,-74.0465438284,4.6660610019,0,,0,,co,0
+296,364,Cl 83  ,364A00 Cl 83  ,-74.0485419875,4.6634710513,0,,0,,co,0
+297,365,Embajada de Italia ,365A00 Embajada de Italia ,-74.0517809541,4.6600777874,0,,0,,co,0
+298,366,El Nogal  ,366A00 El Nogal  ,-74.0525375375,4.658904884,0,,0,,co,0
+299,367,Calle 74  ,367A00 Calle 74  ,-74.0541859344,4.6571520763,0,,0,,co,0
+300,368,Bellavista   ,368A00 Bellavista   ,-74.0539283935,4.6571519182,0,,0,,co,0
+301,373,Av Cra 7 ,373A00 Av Cra 7 ,-74.0593403857,4.6490715025,0,,0,,co,0
+302,374,U. de la Salle,374A00 U. de la Salle,-74.0616137897,4.6438310396,0,,0,,co,0
+303,375,U. de la Salle,375A00 U. de la Salle,-74.0611050173,4.6459333886,0,,0,,co,0
+304,377,Dirección de Sanidad ,377A00 Dirección de Sanidad ,-74.0631370656,4.639236398,0,,0,,co,0
+305,380,Pardo Rubio  ,380A00 Pardo Rubio  ,-74.0638856116,4.6356367366,0,,0,,co,0
+306,381,Pardo Rubio  ,381A00 Pardo Rubio  ,-74.0637344308,4.6335708071,0,,0,,co,0
+307,383,U Javeriana  ,383A00 U Javeriana  ,-74.0643463098,4.6305596083,0,,0,,co,0
+308,384,U Javeriana  ,384A00 U Javeriana  ,-74.0650920242,4.6278631537,0,,0,,co,0
+309,386,Pq Nacional  ,386A00 Pq Nacional  ,-74.0659584771,4.6243437233,0,,0,,co,0
+310,387,Bosque Calderón  ,387A00 Bosque Calderón  ,-74.0620391504,4.6422247757,0,,0,,co,0
+311,389,CC Morichal  ,389A00 CC Morichal  ,-74.0735289564,4.6415793626,0,,0,,co,0
+312,390,Banco Central  ,390A00 Banco Central  ,-74.0704495966,4.6409962843,0,,0,,co,0
+313,391,CC Galerías  ,391A00 CC Galerías  ,-74.0739710553,4.6422284329,0,,0,,co,0
+314,392,Galerías   ,392A00 Galerías   ,-74.0737033073,4.6425857153,0,,0,,co,0
+315,393,CAI Alcázares  ,393A00 CAI Alcázares  ,-74.0678943982,4.662094447,0,,0,,co,0
+316,394,Universidad EAN  ,394A00 Universidad EAN  ,-74.0571749051,4.6554134512,0,,0,,co,0
+317,397,Cl 72  ,397A00 Cl 72  ,-74.0610327774,4.6589957303,0,,0,,co,0
+318,398,Estación cl 72 ,398A00 Estación cl 72 ,-74.0611181909,4.6585999345,0,,0,,co,0
+319,399,Colombia   ,399A00 Colombia   ,-74.0673992569,4.6623484556,0,,0,,co,0
+320,412,Santa Bárbara  ,412A00 Santa Bárbara  ,-74.0777544239,4.5900502544,0,,0,,co,0
+321,413,Hospital centro oriente Lourdes,413A00 Hospital centro oriente Lourdes,-74.0749047626,4.5897736627,0,,0,,co,0
+322,414,Hospital centro oriente Lourdes,414A00 Hospital centro oriente Lourdes,-74.0750266617,4.5900718548,0,,0,,co,0
+323,414,Parque la Perla ,414A00 Parque la Perla ,-74.1031554434,4.599563079,0,,0,,co,0
+324,415,JAC Santa Isabel ,415A00 JAC Santa Isabel ,-74.1032106802,4.6004599154,0,,0,,co,0
+325,415,Lourdes II  ,415A00 Lourdes II  ,-74.072674938,4.589546992,0,,0,,co,0
+326,416,Belén   ,416A00 Belén   ,-74.072615699,4.5900777076,0,,0,,co,0
+327,418,Santa Isabel sur ,418A00 Santa Isabel sur ,-74.1010496579,4.5987543091,0,,0,,co,0
+328,420,Santa Isabel  ,420A00 Santa Isabel  ,-74.100306262,4.6009610109,0,,0,,co,0
+329,434,Eduardo Santos  ,434A00 Eduardo Santos  ,-74.0917094479,4.5960813546,0,,0,,co,0
+330,437,La Estanzuela  ,437A00 La Estanzuela  ,-74.091176698,4.5974436309,0,,0,,co,0
+331,438,Hopistal de la Misericordia,438A00 Hopistal de la Misericordia,-74.0880622513,4.5941454436,0,,0,,co,0
+332,443,La Estanzuela  ,443A00 La Estanzuela  ,-74.0886476001,4.5983231566,0,,0,,co,0
+333,460,Fundafidro   ,460A00 Fundafidro   ,-74.0698435547,4.5932213301,0,,0,,co,0
+334,493,EAAB   ,493A00 EAAB   ,-74.0673960089,4.5955489007,0,,0,,co,0
+335,494,Universidad externado  ,494A00 Universidad externado  ,-74.0670807406,4.5958482195,0,,0,,co,0
+336,498,Universidad Distrital Faramena ,498A00 Universidad Distrital Faramena ,-74.0649252779,4.5980661978,0,,0,,co,0
+337,499,Teatro la Media Torta,499A00 Teatro la Media Torta,-74.0655063645,4.5995776657,0,,0,,co,0
+338,500,Universidad de los Andes,500A00 Universidad de los Andes,-74.0626046079,4.5999664955,0,,0,,co,0
+339,502,Las Aguas  ,502A00 Las Aguas  ,-74.0669928957,4.6036706725,0,,0,,co,0
+340,506,Quinta de Bolivar ,506A00 Quinta de Bolivar ,-74.0645585395,4.6032364899,0,,0,,co,0
+341,508,Teleférico de Monserrate ,508A00 Teleférico de Monserrate ,-74.0619480521,4.6029508825,0,,0,,co,0
+342,509,Centro las Gaviotas ,509A00 Centro las Gaviotas ,-74.0616124682,4.6013400883,0,,0,,co,0
+343,510,Teleféricos de Monserrate ,510A00 Teleféricos de Monserrate ,-74.0617970089,4.6032200997,0,,0,,co,0
+344,512,Iglesia San Alfonso ,512A00 Iglesia San Alfonso ,-74.0771898869,4.6273880602,0,,0,,co,0
+345,513,la soledad  ,513A00 la soledad  ,-74.0788344006,4.6318207476,0,,0,,co,0
+346,514,La Soledad  ,514A00 La Soledad  ,-74.0780267571,4.6295488613,0,,0,,co,0
+347,517,Teusaquillo   ,517A00 Teusaquillo   ,-74.0759336203,4.6232969826,0,,0,,co,0
+348,519,Teusaquillo   ,519A00 Teusaquillo   ,-74.071238885,4.622943853,0,,0,,co,0
+349,523,Belalcazar   ,523A00 Belalcazar   ,-74.0773743857,4.6417723317,0,,0,,co,0
+350,524,Colegio Americano de Bogotá,524A00 Colegio Americano de Bogotá,-74.0737946425,4.6346511086,0,,0,,co,0
+351,526,Alfonso López  ,526A00 Alfonso López  ,-74.0740037513,4.6397400485,0,,0,,co,0
+352,527,Parroquia Santa Marta ,527A00 Parroquia Santa Marta ,-74.0732942428,4.640541923,0,,0,,co,0
+353,528,palermo   ,528A00 palermo   ,-74.0715363901,4.6353306714,0,,0,,co,0
+354,531,ECCI   ,531A00 ECCI   ,-74.0704296436,4.6386300819,0,,0,,co,0
+355,532,Alfonso López  ,532A00 Alfonso López  ,-74.0704759026,4.6391506155,0,,0,,co,0
+356,533,Ak 17  ,533A00 Ak 17  ,-74.0704149661,4.6400666207,0,,0,,co,0
+357,535,Galerías   ,535A00 Galerías   ,-74.0718727755,4.6423686489,0,,0,,co,0
+358,537,Banco Central  ,537A00 Banco Central  ,-74.0714654412,4.6443096021,0,,0,,co,0
+359,543,Siberia Central  ,543A00 Siberia Central  ,-74.0593973251,4.6349442637,0,,0,,co,0
+360,543,Siberia Central  ,543A00 Siberia Central  ,-74.0595919017,4.6347993905,0,,0,,co,0
+361,544,Siberia Central  ,544A00 Siberia Central  ,-74.059634174,4.6333318906,0,,0,,co,0
+362,551,Urbanización Camelia  ,551A00 Urbanización Camelia  ,-74.0604921417,4.6355165921,0,,0,,co,0
+363,554,Cli San Tomás ,554A00 Cli San Tomás ,-74.0609779581,4.6387452073,0,,0,,co,0
+364,555,Cli Santo Tomas ,555A00 Cli Santo Tomas ,-74.0609601885,4.639040805,0,,0,,co,0
+365,556,Bosque Calderon  ,556A00 Bosque Calderon  ,-74.0605483856,4.6410513623,0,,0,,co,0
+366,560,U Salle sede Chapinero,560A00 U Salle sede Chapinero,-74.0601027198,4.6425599791,0,,0,,co,0
+367,561,Estación Policía Chapinero ,561A00 Estación Policía Chapinero ,-74.0574847162,4.6428785046,0,,0,,co,0
+368,564,CAI Granada  ,564A00 CAI Granada  ,-74.0568114149,4.6470906567,0,,0,,co,0
+369,566,   ,566A00    ,-74.056214719,4.642226891,0,,0,,co,0
+370,569,Granada   ,569A00 Granada   ,-74.0542261675,4.6478318609,0,,0,,co,0
+371,570,Cra 1  ,570A00 Cra 1  ,-74.054340917,4.6464891024,0,,0,,co,0
+372,571,Colegio Rosario Santo Domingo,571A00 Colegio Rosario Santo Domingo,-74.0536689635,4.6467900587,0,,0,,co,0
+373,574,Benjamín Herrera  ,574A00 Benjamín Herrera  ,-74.0764709841,4.6560342237,0,,0,,co,0
+374,576,La Paz  ,576A00 La Paz  ,-74.0755540039,4.6586574242,0,,0,,co,0
+375,583,Alcázares norte  ,583A00 Alcázares norte  ,-74.0676068345,4.6656830306,0,,0,,co,0
+376,584,Cámara de Comercio cl,584A00 Cámara de Comercio cl,-74.0594922778,4.6516704985,0,,0,,co,0
+377,591,Polo Club  ,591A00 Polo Club  ,-74.0633302554,4.6703717625,0,,0,,co,0
+378,593,Polo Club  ,593A00 Polo Club  ,-74.0624881256,4.6752631897,0,,0,,co,0
+379,599,Calle 85  ,599A00 Calle 85  ,-74.0460185241,4.6648891177,0,,0,,co,0
+380,600,Calle 86A  ,600A00 Calle 86A  ,-74.0446202798,4.6669059827,0,,0,,co,0
+381,601,El Refugio  ,601A00 El Refugio  ,-74.0440260817,4.667592967,0,,0,,co,0
+382,602,Cra 4  ,602A00 Cra 4  ,-74.0410016132,4.669340036,0,,0,,co,0
+383,603,Cra 4  ,603A00 Cra 4  ,-74.040746108,4.6690380006,0,,0,,co,0
+384,615,Paloquemao   ,615A00 Paloquemao   ,-74.0832758392,4.6150086037,0,,0,,co,0
+385,618,Rafel Uribe  ,618A00 Rafel Uribe  ,-74.0667379013,4.6566531985,0,,0,,co,0
+386,621,Park Way  ,621A00 Park Way  ,-74.0736563436,4.6243801059,0,,0,,co,0
+387,627,San Felipe  ,627A00 San Felipe  ,-74.0621307611,4.6639188495,0,,0,,co,0
+388,628,San Felipe  ,628A00 San Felipe  ,-74.0631515604,4.6623139189,0,,0,,co,0
+389,633,Archivo Distrital  ,633A00 Archivo Distrital  ,-74.0781216323,4.5904105128,0,,0,,co,0
+390,637,Pardo Rubio  ,637A00 Pardo Rubio  ,-74.0579602203,4.6337163228,0,,0,,co,0
+391,638,Av Aaracas  ,638A00 Av Aaracas  ,-74.0649667854,4.6437793409,0,,0,,co,0
+392,640,Siberia Central  ,640A00 Siberia Central  ,-74.0580850019,4.6338406965,0,,0,,co,0
+393,646,CC Galerías  ,646A00 CC Galerías  ,-74.0754114094,4.6433222007,0,,0,,co,0
+394,650,SENA   ,650A00 SENA   ,-74.0624330107,4.6522430508,0,,0,,co,0
+395,653,Av cl 19 ,653A00 Av cl 19 ,-74.073266834,4.6057989635,0,,0,,co,0
+396,654,Teatro nacional Jorge Elieser,654A00 Teatro nacional Jorge Elieser,-74.0716884378,4.6089485055,0,,0,,co,0
+397,655,Torre Colpatria  ,655A00 Torre Colpatria  ,-74.0700056582,4.6104987804,0,,0,,co,0
+398,656,Planetario de Bogotá ,656A00 Planetario de Bogotá ,-74.0696391346,4.6120477845,0,,0,,co,0
+399,657,Estación bicentenario  ,657A00 Estación bicentenario  ,-74.0809747484,4.5934558986,0,,0,,co,0
+400,658,Bosque Izquierdo  ,658A00 Bosque Izquierdo  ,-74.0650921865,4.611803089,0,,0,,co,0
+401,662,San Martín  ,662A00 San Martín  ,-74.0664492388,4.616311012,0,,0,,co,0
+402,663,Plaza de toros la,663A00 Plaza de toros la,-74.0674068032,4.6124512041,0,,0,,co,0
+403,664,Estación Universidades  ,664A00 Estación Universidades  ,-74.0671869194,4.6052364481,0,,0,,co,0
+404,669,La Castellana  ,669A00 La Castellana  ,-74.0605495853,4.6785921402,0,,0,,co,0
+405,671,Usatama   ,671A00 Usatama   ,-74.0807480179,4.623604808,0,,0,,co,0
+406,675,Estación Museo nacional ,675A00 Estación Museo nacional ,-74.0687476078,4.6160287425,0,,0,,co,0
+407,677,Colombia   ,677A00 Colombia   ,-74.0655312739,4.6585057229,0,,0,,co,0
+408,678,Colombia   ,678A00 Colombia   ,-74.0641950164,4.6605187096,0,,0,,co,0
+409,679,Juan XXIII  ,679A00 Juan XXIII  ,-74.0624557321,4.667453994,0,,0,,co,0
+410,680,Estación cl 76 ,680A00 Estación cl 76 ,-74.0613158169,4.6639211637,0,,0,,co,0
+411,681,San Felipe  ,681A00 San Felipe  ,-74.0617170481,4.6615868574,0,,0,,co,0
+412,682,Estación cl 72 ,682A00 Estación cl 72 ,-74.0622166475,4.6587545704,0,,0,,co,0
+413,683,Concepción norte  ,683A00 Concepción norte  ,-74.0626674643,4.6564123284,0,,0,,co,0
+414,684,La Esperanza  ,684A00 La Esperanza  ,-74.0637730452,4.6539924866,0,,0,,co,0
+415,685,Av cl 63 ,685A00 Av cl 63 ,-74.0647308086,4.6505388936,0,,0,,co,0
+416,686,Estación cl 63 ,686A00 Estación cl 63 ,-74.0651882549,4.6478923783,0,,0,,co,0
+417,687,IED Manuela Beltrán ,687A00 IED Manuela Beltrán ,-74.0656959743,4.6450840216,0,,0,,co,0
+418,688,Estación cl 57 ,688A00 Estación cl 57 ,-74.0661786618,4.6424644452,0,,0,,co,0
+419,689,Quesada   ,689A00 Quesada   ,-74.066584084,4.6399862892,0,,0,,co,0
+420,690,Estación marly  ,690A00 Estación marly  ,-74.067101918,4.6371440809,0,,0,,co,0
+421,691,Palermo   ,691A00 Palermo   ,-74.0674492641,4.6352122391,0,,0,,co,0
+422,692,   ,692A00    ,-74.1013520507,4.6023114156,0,,0,,co,0
+423,694,CAD   ,694A00 CAD   ,-74.0821867794,4.625323799,0,,0,,co,0
+424,695,Las Américas  ,695A00 Las Américas  ,-74.079881151,4.6291190677,0,,0,,co,0
+425,696,U Católica de Colombia,696A00 U Católica de Colombia,-74.067163195,4.6342532769,0,,0,,co,0
+426,697,Marly   ,697A00 Marly   ,-74.0668354626,4.6361684979,0,,0,,co,0
+427,698,SENA Centro de gestión,698A00 SENA Centro de gestión,-74.0663355567,4.638986368,0,,0,,co,0
+428,699,Secretaría general de ambiente,699A00 Secretaría general de ambiente,-74.0658883743,4.6416750464,0,,0,,co,0
+429,700,Chapinero central  ,700A00 Chapinero central  ,-74.0653576414,4.6445516318,0,,0,,co,0
+430,701,Estación cl 63 ,701A00 Estación cl 63 ,-74.0648214419,4.6475957714,0,,0,,co,0
+431,702,Chapinero norte  ,702A00 Chapinero norte  ,-74.0642991183,4.6503122624,0,,0,,co,0
+432,703,Chapinero norte  ,703A00 Chapinero norte  ,-74.0634778686,4.6535958073,0,,0,,co,0
+433,704,Quinta Camacho  ,704A00 Quinta Camacho  ,-74.0623005007,4.6560577506,0,,0,,co,0
+434,705,Estación cl 72 ,705A00 Estación cl 72 ,-74.0618614933,4.6583795641,0,,0,,co,0
+435,706,Porciúncula   ,706A00 Porciúncula   ,-74.0614051445,4.6611787006,0,,0,,co,0
+436,707,Estación cl 76 ,707A00 Estación cl 76 ,-74.061045329,4.6631711471,0,,0,,co,0
+437,708,El Polo club ,708A00 El Polo club ,-74.0624558553,4.6681716805,0,,0,,co,0
+438,711,Porciúncula   ,711A00 Porciúncula   ,-74.0566825019,4.6575191047,0,,0,,co,0
+439,717,   ,717A00    ,-74.0814445749,4.5924453198,0,,0,,co,0
+440,720,Estación Virrey  ,720A00 Estación Virrey  ,-74.0594719816,4.6756755793,0,,0,,co,0
+441,721,Estación calle 85 ,721A00 Estación calle 85 ,-74.0599898548,4.6728857685,0,,0,,co,0
+442,722,Estación Héroes  ,722A00 Estación Héroes  ,-74.0605672731,4.668343828,0,,0,,co,0
+443,754,Estación héroes  ,754A00 Estación héroes  ,-74.060205444,4.6671308866,0,,0,,co,0
+444,755,U San Martín ,755A00 U San Martín ,-74.0597931291,4.6689876614,0,,0,,co,0
+445,766,Estación cl 85 ,766A00 Estación cl 85 ,-74.0591651359,4.6724294937,0,,0,,co,0
+446,770,Estación la Castellana ,770A00 Estación la Castellana ,-74.0649751201,4.6756332088,0,,0,,co,0
+447,771,Estación la Castellana ,771A00 Estación la Castellana ,-74.0645700515,4.6751682119,0,,0,,co,0
+448,772,Estación Avenida Chile ,772A00 Estación Avenida Chile ,-74.0754273507,4.6646811524,0,,0,,co,0
+449,773,La Paz  ,773A00 La Paz  ,-74.0766134765,4.6605660673,0,,0,,co,0
+450,093,   ,093A00    ,-74.0932749948,4.6120182589,0,,0,,co,0
+451,NA,La Favorita  ,La Favorita  ,-74.0811840679,4.6125553116,0,,0,,co,0
+452,NA,La Favorita  ,La Favorita  ,-74.0774476913,4.6093612864,0,,0,,co,0
+453,NA,U Jorge Tadeo Lozano,U Jorge Tadeo Lozano,-74.0687439049,4.6077812901,0,,0,,co,0
+454,NA,Santa Fe  ,Santa Fe  ,-74.0753718908,4.6136688319,0,,0,,co,0
+455,NA,San Felipe  ,San Felipe  ,-74.0627671762,4.6601758154,0,,0,,co,0
+456,NA,La Favorita  ,La Favorita  ,-74.079412032,4.610746196,0,,0,,co,0
+457,NA,Fundación Universitaria San Martín,Fundación Universitaria San Martín,-74.0668757371,4.6475494552,0,,0,,co,0
+458,NA,Cementerio Central  ,Cementerio Central  ,-74.0768887434,4.616084641,0,,0,,co,0
+459,NA,CC Aquarium  ,CC Aquarium  ,-74.0635116817,4.646694258,0,,0,,co,0
+460,NA,Baquero   ,Baquero   ,-74.0693240671,4.6505691808,0,,0,,co,0
+461,NA,Galerías   ,Galerías   ,-74.0752006866,4.6422185211,0,,0,,co,0
+462,NA,CAI Santa Isabel ,CAI Santa Isabel ,-74.0995013871,4.5993628012,0,,0,,co,0
+463,NA,Sin nombre,,-74.0719489461,4.5926231919,0,,0,,co,0
+464,NA,Sin nombre,,-74.0632953458,4.6220508027,0,,0,,co,0
+465,NA,Sin nombre,,-74.0915586613,4.6066611679,0,,0,,co,0
+466,NA,Sin nombre,,-74.0738046169,4.6170657501,0,,0,,co,0
+467,NA,Academia Colombia de Historia,Academia Colombia de Historia,-74.0776931469,4.5979896742,0,,0,,co,0
+468,NA,Alcázares   ,Alcázares   ,-74.0742960479,4.6604525764,0,,0,,co,0
+469,NA,Alcázares   ,Alcázares   ,-74.0728619043,4.6624972159,0,,0,,co,0
+470,NA,Alcázares   ,Alcázares   ,-74.0707262792,4.6654336061,0,,0,,co,0
+471,NA,Arquidiócesis Pastoral  ,Arquidiócesis Pastoral  ,-74.0704821301,4.6645917387,0,,0,,co,0
+472,NA,Baquero   ,Baquero   ,-74.0690437785,4.6533121821,0,,0,,co,0
+473,NA,Benjamín Herrera  ,Benjamín Herrera  ,-74.0753571668,4.655457368,0,,0,,co,0
+474,NA,CAI La Soledad ,CAI La Soledad ,-74.0748660173,4.6306137973,0,,0,,co,0
+475,NA,Calle 6A  ,Calle 6A  ,-74.0753867588,4.5920966035,0,,0,,co,0
+476,NA,Calle 9  ,Calle 9  ,-74.0735568728,4.5949692951,0,,0,,co,0
+477,NA,Canal Arzobispo  ,Canal Arzobispo  ,-74.0720628523,4.6314618554,0,,0,,co,0
+478,NA,Colegio Marillac  ,Colegio Marillac  ,-74.0731007676,4.6608953714,0,,0,,co,0
+479,NA,ITD Fundación Juventud ,ITD Fundación Juventud ,-74.0659868499,4.6699470369,0,,0,,co,0
+480,NA,La Aurora  ,La Aurora  ,-74.0683580353,4.6671777917,0,,0,,co,0
+481,NA,La Soledad  ,La Soledad  ,-74.075711919,4.6291765943,0,,0,,co,0
+482,NA,Marly   ,Marly   ,-74.06430264,4.6350168949,0,,0,,co,0
+483,NA,Palermo   ,Palermo   ,-74.0718522399,4.6341116247,0,,0,,co,0
+484,NA,Palermo   ,Palermo   ,-74.0729737359,4.636467922,0,,0,,co,0
+485,NA,Ruta Circular  ,Ruta Circular  ,-74.0692372367,4.6093539881,0,,0,,co,0
+486,NA,San Andresito  ,San Andresito  ,-74.091188011,4.6056480696,0,,0,,co,0
+487,NA,San Diego  ,San Diego  ,-74.0712872947,4.6106081251,0,,0,,co,0
+488,NA,Sin nombre,,-74.0460701232,4.6651885191,0,,0,,co,0
+489,NA,Sin nombre,,-74.0636080605,4.651114049,0,,0,,co,0
+490,NA,Sin nombre,,-74.0746620018,4.6382036526,0,,0,,co,0
+491,NA,Sin nombre,,-74.0782122748,4.6480329009,0,,0,,co,0
+492,NA,Sin nombre,,-74.0770996053,4.6218467578,0,,0,,co,0
+493,NA,Sin nombre,,-74.0653660809,4.6198170528,0,,0,,co,0
+494,NA,Sin nombre,,-74.0667097838,4.6211719855,0,,0,,co,0
+495,NA,Sin nombre,,-74.0691539638,4.6147498302,0,,0,,co,0
+496,NA,Sin nombre,,-74.095412501,4.6001354433,0,,0,,co,0
+497,NA,Sin nombre,,-74.0926460344,4.6049561205,0,,0,,co,0
+498,NA,Sin nombre,,-74.0753032462,4.6323924905,0,,0,,co,0
+499,NA,Sin nombre,,-74.0650660638,4.6328938007,0,,0,,co,0
+500,NA,Sin nombre,,-74.0922147049,4.6040159387,0,,0,,co,0
+501,NA,Sin nombre,,-74.0956650866,4.6021835172,0,,0,,co,0
+502,NA,Sin nombre,,-74.0969195693,4.600141194,0,,0,,co,0
+503,NA,Sin nombre,,-74.050212262,4.6835562007,0,,0,,co,0
+504,NA,Sin nombre,,-74.0972027835,4.5976004982,0,,0,,co,0
+505,NA,Sin nombre,,-74.0966349253,4.6027741058,0,,0,,co,0
+506,NA,Sin nombre,,-74.0748266028,4.6498487216,0,,0,,co,0
+507,NA,Sin nombre,,-74.0719287052,4.6324124666,0,,0,,co,0
+508,NA,Sin nombre,,-74.0756915117,4.652776445,0,,0,,co,0
+509,NA,Sin nombre,,-74.0785661509,4.6437399834,0,,0,,co,0
+510,NA,Sin nombre,,-74.0787448531,4.6413301863,0,,0,,co,0
+511,NA,Sin nombre,,-74.0789596446,4.6384310117,0,,0,,co,0
+512,NA,Sin nombre,,-74.0791514225,4.6357580647,0,,0,,co,0
+513,NA,Sin nombre,,-74.0577629521,4.6858593768,0,,0,,co,0
+514,NA,Sin nombre,,-74.0587861559,4.6801272019,0,,0,,co,0
+515,NA,Sin nombre,,-74.0644701446,4.687759192,0,,0,,co,0
+516,NA,Sin nombre,,-74.0630357311,4.684934826,0,,0,,co,0
+517,NA,Sin nombre,,-74.0643207136,4.6806260438,0,,0,,co,0
+518,NA,Sin nombre,,-74.0670550868,4.6761622867,0,,0,,co,0
+519,NA,Sin nombre,,-74.0437681507,4.6821002243,0,,0,,co,0
+520,NA,Sin nombre,,-74.0573028184,4.6836705739,0,,0,,co,0
+521,NA,Sin nombre,,-74.0627347409,4.6749859164,0,,0,,co,0
+522,NA,Sin nombre,,-74.0777087555,4.6545976806,0,,0,,co,0
+523,NA,Sin nombre,,-74.0780146871,4.6514764489,0,,0,,co,0
